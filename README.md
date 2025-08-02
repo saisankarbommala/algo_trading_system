@@ -31,8 +31,8 @@ Project Structure
 ├── ml_model.py--------------# (Bonus) Placeholder for the ML model--------------------------------------------------------------------------------
 ├── telegram_alerts.py-------# (Bonus) Functions for sending Telegram notifications------------------------------------------------------------
 ├── main.py------------------# The main script to run the entire system--------------------------------------------------------------------------
-├── requirements.txt---------# List of Python dependencies---------------------------------------------------------------------------------------------
-└── service_account.json-----# Google Sheets API credentials (add to .gitignore!)----------------------------------------------------------------------
+├── requirements.txt---------# List of Python dependencies------------------------------------------------------------------------------------------
+└── service_account.json-----# Google Sheets API credentials (add to .gitignore!)---------------------------------------------------------------
 
 To run this project, you need a system with Python 3.8 or higher installed.
 
