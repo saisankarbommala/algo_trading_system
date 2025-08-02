@@ -30,19 +30,19 @@ Project Structure
 
 ├── data_handler.py----------# Functions for fetching and processing stock data---------------------------------------
 
-├── strategy.py--------------# Contains the trading strategy logic and backtesting engine---------------------------------
+├── strategy.py--------------# Contains the trading strategy logic and backtesting engine------------------------------
 
-├── google_sheets_api.py-----# Handles all interactions with the Google Sheets API----------------------------------------
+├── google_sheets_api.py-----# Handles all interactions with the Google Sheets API------------------------------------
 
-├── ml_model.py--------------# (Bonus) Placeholder for the ML model----------------------------------------------------
+├── ml_model.py--------------# (Bonus) Placeholder for the ML model---------------------------------------------------
 
-├── telegram_alerts.py-------# (Bonus) Functions for sending Telegram notifications----------------------------------------
+├── telegram_alerts.py-------# (Bonus) Functions for sending Telegram notifications------------------------------------
 
 ├── main.py------------------# The main script to run the entire system---------------------------------------------------
 
-├── requirements.txt---------# List of Python dependencies-------------------------------------------------------------------
+├── requirements.txt---------# List of Python dependencies---------------------------------------------------------------
 
-└── service_account.json-----# Google Sheets API credentials (add to .gitignore!)----------------------------------------------
+└── service_account.json-----# Google Sheets API credentials (add to .gitignore!)---------------------------------------
 To run this project, you need a system with Python 3.8 or higher installed.
 
 1.  **Clone this repository:**
