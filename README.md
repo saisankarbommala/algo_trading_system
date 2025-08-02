@@ -22,19 +22,17 @@ This strategy was backtested for a period of 6 months on several NIFTY 50 stocks
 
 Project Structure
 
-Project Structure
-├── .venv/                   # Python virtual environment
-├── .gitignore               # Files to ignore for Git
-├── config.ini               # Configuration for API keys, stocks, etc.
-├── data_handler.py          # Functions for fetching and processing stock data
-├── strategy.py              # Contains the trading strategy logic and backtesting engine
-├── google_sheets_api.py     # Handles all interactions with the Google Sheets API
-├── ml_model.py              # (Bonus) Placeholder for the ML model
-├── telegram_alerts.py       # (Bonus) Functions for sending Telegram notifications
-├── main.py                  # The main script to run the entire system
-├── requirements.txt         # List of Python dependencies
-└── service_account.json     # Google Sheets API credentials (add to .gitignore!)
-
+├── .venv/-------------------# Python virtual environment----------------------------------------------------------------------------------------------
+├── .gitignore---------------# Files to ignore for Git-------------------------------------------------------------------------------------------------
+├── config.ini---------------# Configuration for API keys, stocks, etc.-------------------------------------------------------------------------------
+├── data_handler.py----------# Functions for fetching and processing stock data--------------------------------------------------------------------
+├── strategy.py--------------# Contains the trading strategy logic and backtesting engine-------------------------------------------------------
+├── google_sheets_api.py-----# Handles all interactions with the Google Sheets API----------------------------------------------------------------
+├── ml_model.py--------------# (Bonus) Placeholder for the ML model--------------------------------------------------------------------------------
+├── telegram_alerts.py-------# (Bonus) Functions for sending Telegram notifications------------------------------------------------------------
+├── main.py------------------# The main script to run the entire system--------------------------------------------------------------------------
+├── requirements.txt---------# List of Python dependencies------------------------------------------------------------------------------------------
+└── service_account.json-----# Google Sheets API credentials (add to .gitignore!)---------------------------------------------------------------
 To run this project, you need a system with Python 3.8 or higher installed.
 
 1.  **Clone this repository:**
