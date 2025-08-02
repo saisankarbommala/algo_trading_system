@@ -21,6 +21,7 @@ This strategy was backtested for a period of 6 months on several NIFTY 50 stocks
 ## Setup & Prerequisites
 
 Project Structure
+
 ├── .venv/-------------------# Python virtual environment---------------------------------------------------------------------------------------------------------- 
 ├── .gitignore---------------# Files to ignore for Git                                                                                                          *
 ├── config.ini               # Configuration for API keys, stocks, etc.                                                                                         *
