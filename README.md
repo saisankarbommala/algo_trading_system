@@ -30,7 +30,7 @@ Project Structure
 ├── google_sheets_api.py-----# Handles all interactions with the Google Sheets API----------------------------------------------------------------
 ├── ml_model.py--------------# (Bonus) Placeholder for the ML model--------------------------------------------------------------------------------
 ├── telegram_alerts.py-------# (Bonus) Functions for sending Telegram notifications------------------------------------------------------------
-├── main.py------------------# The main script to run the entire system----------------------------------------------------------------------
+├── main.py------------------# The main script to run the entire system--------------------------------------------------------------------------
 ├── requirements.txt---------# List of Python dependencies---------------------------------------------------------------------------------------------
 └── service_account.json-----# Google Sheets API credentials (add to .gitignore!)----------------------------------------------------------------------
 
