@@ -24,9 +24,9 @@ Project Structure
 
 ├── .venv/-------------------# Python virtual environment----------------------------------------------------------------------------------------------
 ├── .gitignore---------------# Files to ignore for Git-------------------------------------------------------------------------------------------------
-├── config.ini---------------# Configuration for API keys, stocks, etc.----------------------------------------------------------------------------
-├── data_handler.py----------# Functions for fetching and processing stock data---------------------------------------------------------------
-├── strategy.py--------------# Contains the trading strategy logic and backtesting engine-------------------------------------------------
+├── config.ini---------------# Configuration for API keys, stocks, etc.-------------------------------------------------------------------------------
+├── data_handler.py----------# Functions for fetching and processing stock data--------------------------------------------------------------------
+├── strategy.py--------------# Contains the trading strategy logic and backtesting engine-------------------------------------------------------
 ├── google_sheets_api.py-----# Handles all interactions with the Google Sheets API---------------------------------------------------------------------
 ├── ml_model.py--------------# (Bonus) Placeholder for the ML model------------------------------------------------------------------------------------
 ├── telegram_alerts.py-------# (Bonus) Functions for sending Telegram notifications--------------------------------------------------------------------
