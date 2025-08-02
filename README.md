@@ -22,9 +22,9 @@ This strategy was backtested for a period of 6 months on several NIFTY 50 stocks
 
 Project Structure
 
-├── .venv/-------------------# Python virtual environment---------------------------------------------------------------------------------------------------------- 
-├── .gitignore---------------# Files to ignore for Git                                                                                                          *
-├── config.ini               # Configuration for API keys, stocks, etc.                                                                                         *
+├── .venv/-------------------# Python virtual environment----------------------------------------------------------------------------------------------
+├── .gitignore---------------# Files to ignore for Git-------------------------------------------------------------------------------------------------
+├── config.ini---------------# Configuration for API keys, stocks, etc.                                                                                         *
 ├── data_handler.py          # Functions for fetching and processing stock data                                                                                 *
 ├── strategy.py              # Contains the trading strategy logic and backtesting engine                                                                       *
 ├── google_sheets_api.py     # Handles all interactions with the Google Sheets API                                                                              *
